@@ -10,8 +10,7 @@ All I want you to know about me:
         <td>
             <img 
                 alt="Стековая диаграмма языков в профиле @JuraSciix на GitHub"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurasciix&theme=darcula&layout=compact"
-                height="195"/>
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurasciix&theme=darcula&layout=compact" />
         </td>
     </tr>
 </table>
